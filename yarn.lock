@@ -3678,10 +3678,55 @@ es-errors@^1.3.0:
   resolved "https://registry.npmjs.org/es-errors/-/es-errors-1.3.0.tgz"
   integrity sha512-Zf5H2Kxt2xjTvbJvP2ZWLEICxA6j+hAmMzIlypy4xcBg1vKVnx89Wy0GbS+kf5cwCVFFzdCFh2XSCFNULS6csw==
 
+es-git-android-arm-eabi@0.2.0:
+  version "0.2.0"
+  resolved "https://registry.npmjs.org/es-git-android-arm-eabi/-/es-git-android-arm-eabi-0.2.0.tgz"
+  integrity sha512-X0Y97uKx1ZP+lKi5Syu6a2+fP4eJt8qky1qB9AYjlVg/dYRq9JWmsyPZ7QmbKvSYvkAEfOGT1DPTMG01+j6lsA==
+
+es-git-android-arm64@0.2.0:
+  version "0.2.0"
+  resolved "https://registry.npmjs.org/es-git-android-arm64/-/es-git-android-arm64-0.2.0.tgz"
+  integrity sha512-PQSs2WKWD9eIUph/dVjeaXVRwuAYq0C/PCzn4LqbNAiqW6CkjFhlzwe14h0cW/0ytCgrC1tTG3YlKZKWogbN5A==
+
+es-git-darwin-arm64@0.2.0:
+  version "0.2.0"
+  resolved "https://registry.npmjs.org/es-git-darwin-arm64/-/es-git-darwin-arm64-0.2.0.tgz"
+  integrity sha512-AzL5ohZYE3MIhFC72+Wjr7ctd0jTfFhSP37aErGRbTTj1aryleGaeL8JuhrrtbyKl3V+fJT8RMfRjvbs4J3t1Q==
+
 es-git-darwin-x64@0.2.0:
   version "0.2.0"
   resolved "https://registry.npmjs.org/es-git-darwin-x64/-/es-git-darwin-x64-0.2.0.tgz"
   integrity sha512-B/DRbX9iIXDgThEZp6gBHSkyRwPnSDiRrBIRqlD2NBv+UXlVPHj/D1zovC3mVSeQbDYOZVb4lIRQ6SvtwjQ8Uw==
+
+es-git-linux-arm64-gnu@0.2.0:
+  version "0.2.0"
+  resolved "https://registry.npmjs.org/es-git-linux-arm64-gnu/-/es-git-linux-arm64-gnu-0.2.0.tgz"
+  integrity sha512-Cs2RXNbXTNtriIWCE1LFt/OxB8OxWgVKUIEl416PgRcz0dagK0vKumOzd88WGt0ptusw/nDPYfhgAw8U4UibDg==
+
+es-git-linux-arm64-musl@0.2.0:
+  version "0.2.0"
+  resolved "https://registry.npmjs.org/es-git-linux-arm64-musl/-/es-git-linux-arm64-musl-0.2.0.tgz"
+  integrity sha512-xYjHPRTGvRFLsUl89i7FIEWJIcLE4NodrBBEH48DEpmnPt17Lz5/Vs4fD66SQO1agRXf63HdPZftINfeGHPFpg==
+
+es-git-linux-x64-gnu@0.2.0:
+  version "0.2.0"
+  resolved "https://registry.npmjs.org/es-git-linux-x64-gnu/-/es-git-linux-x64-gnu-0.2.0.tgz"
+  integrity sha512-ZsQf3HvcbHNPhx9FvKMEA9aMfesBL6pp/5Ls3jCyysf8nzs7AENRZ//Lo3FnyssG3QOHH1j8bOVdONY3RBZjkQ==
+
+es-git-linux-x64-musl@0.2.0:
+  version "0.2.0"
+  resolved "https://registry.npmjs.org/es-git-linux-x64-musl/-/es-git-linux-x64-musl-0.2.0.tgz"
+  integrity sha512-wvIelPQvnOtw4aGM16uThTB3M7CRLlV4cL8P2LjOUk3/ywRQWnoQWjrUiJahLwBkoOFiqLNQsh8Ef9+iLFhZeA==
+
+es-git-win32-arm64-msvc@0.2.0:
+  version "0.2.0"
+  resolved "https://registry.npmjs.org/es-git-win32-arm64-msvc/-/es-git-win32-arm64-msvc-0.2.0.tgz"
+  integrity sha512-XFxrqhIo0rwHC6hM1b7Yzw1L3uSjdSmJ2RITKr5EmyUifD0Onha4907HF1qPzLXndoYorhB1Kjjg8MlshWtFwg==
+
+es-git-win32-x64-msvc@0.2.0:
+  version "0.2.0"
+  resolved "https://registry.npmjs.org/es-git-win32-x64-msvc/-/es-git-win32-x64-msvc-0.2.0.tgz"
+  integrity sha512-NEL7x9hMWwsdn8uLf7NMw0jCtbWYnBqAqXLhHelDjPClvwqv3T3F8nMm9mizsKZaNuUS4rDEotsZKwV+PpOCig==
 
 es-git@^0.2.0:
   version "0.2.0"

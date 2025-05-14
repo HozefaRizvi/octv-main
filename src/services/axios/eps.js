@@ -1,5 +1,8 @@
 // //Staging
 // export const baseURL = 'https://octv.xyz/api/f/v3/';
+
+import { globalAppCode } from "../../../AppCode";
+
 // //Live Credentials
 export const baseURL = 'https://onlinechannel.io/api/f/v3/';
 export const supaBaseUrl = 'https://srmqacfupcwjnmzvtdsn.supabase.co/functions/v1/update-server';
@@ -7,7 +10,7 @@ export const supaBaseUrl = 'https://srmqacfupcwjnmzvtdsn.supabase.co/functions/v
 //   'pk_test_51Py6kWHInNTlTUGPM5l30Odo4AOb48C48enPnOsKrw9xhueHWeYlC0lpnRRvtbwMNosFC3UWEZY4c48MsuohS5F700Lyxn0hSm';
   export const P_KEY =
   'pk_live_51NOor0JpbVpnO98ApI1qxGZzlmIQXaUZUCmHe1HEIsDYE5YS7oAbqynr68dWqLkW9mMD9jR6hDmDqHOjW3t7MrIn00WHfO8ne9';
-export const appCode = '54137662273ec8298e3dfd76e8d2533a'; //54137662273ec8298e3dfd76e8d2533a for christmas main 
+export const appCode = globalAppCode; //54137662273ec8298e3dfd76e8d2533a for christmas main 
 export const GPMerchId = 'BCR2DN4T2PGK7G2K';
 export const GPMerchName = 'OnlinneChannel.TV';
 export const eps = {
